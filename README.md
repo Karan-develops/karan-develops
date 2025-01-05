@@ -3,7 +3,7 @@
 </div>
 
 ![Header](./github-header-image.png)
-<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=2000&color=F7F7F7&center=true&vCenter=true&width=1024&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Hola+%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Ciao%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+I'm+Karan+Aggarwal;Ol%C3%A1%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E4%BD%A0%E5%A5%BD%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Hallo%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E0%A8%B8%E0%A8%A4+%E0%A8%B8%E0%A9%8D%E0%A8%B0%E0%A9%80+%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2%F0%9F%99%8F%2C+I'm+Karan+Aggarwal" alt="Typing SVG" /></h1>
+<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=2000&color=F7F7F7&center=true&vCenter=true&width=1024&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Hola+%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Ciao%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+I'm+Karan+Aggarwal;Ol%C3%A1%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E4%BD%A0%E5%A5%BD%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Hallo%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E0%A8%B8%E0%A8%A4+%E0%A8%B8%E0%A9%8D%E0%A8%B0%E0%A9%80+%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2%F0%9F%99%8F%2C+I'm+Karan+Aggarwal" alt="Typing SVG" /></h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-develops&label=Profile%20views&color=0e75b6&style=flat" alt="karan-develops" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS** or **Everything lol**
 
 - 👨‍💻 All of my projects are available at [https://karan-portfolio-sigma.vercel.app/](https://karan-portfolio-sigma.vercel.app/)
 
