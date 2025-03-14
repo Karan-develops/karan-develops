@@ -16,7 +16,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Next JS 😎** or **Everything lol** 😉
+- 🌱 I’m currently learning **Next JS** or **Everything lol** 😉
 
 - 👨‍💻 All of my projects are available at [https://karan-portfolio-sigma.vercel.app/](https://karan-portfolio-sigma.vercel.app/)
 
