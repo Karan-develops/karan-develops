@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript,react,redux,nextjs,prisma,tailwind,bootstrap,nodejs,express,mysql,sqlite,postgres,mongodb,redis,java,spring,vercel,nginx,docker,aws,kafka,figma,bash,powershell,linux,stackoverflow,git,github,postman,npm,vite,vscode,windows,graphql,go" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript,react,redux,nextjs,prisma,tailwind,bootstrap,nodejs,express,mysql,sqlite,postgres,mongodb,redis,java,spring,vercel,nginx,docker,aws,kafka,figma,bash,powershell,linux,stackoverflow,git,github,postman,npm,vite,vscode,windows,graphql,go,firebase" />
 </p>
 
 <h3 align="left">Stats:</h3>
