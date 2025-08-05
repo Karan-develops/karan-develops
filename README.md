@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/1af8b5bb-fa00-44c1-b5aa-c75e988437e4" align="center" style="width: 100%"/>
 </div>
 
-![Header](./github-header-image.png)
+![Header](./github-header-image.jpg)
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=2000&color=F7F7F7&center=true&vCenter=true&width=1024&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Hola+%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Ciao%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+I'm+Karan+Aggarwal;Ol%C3%A1%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E4%BD%A0%E5%A5%BD%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Hallo%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E0%A8%B8%E0%A8%A4+%E0%A8%B8%E0%A9%8D%E0%A8%B0%E0%A9%80+%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2%F0%9F%99%8F%2C+I'm+Karan+Aggarwal" alt="Typing SVG" /></h1>
 
 <h3 align="center">A Passionate Full Stack Developer from India 🔥</h3>
