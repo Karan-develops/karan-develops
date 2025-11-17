@@ -18,7 +18,9 @@
 
 - 🌱 I’m currently exploring **Next JS** or **Everything lol** 😉
 
-- 👨‍💻 All of my projects are available at [https://karan-portfolio-sigma.vercel.app/](https://karan-portfolio-sigma.vercel.app/)
+- Currently Building [https://util-x.vercel.app](Util-X)
+
+- 👨‍💻 All of my projects are available at [https://karan-portfolio-sigma.vercel.app/](Portfolio)
 
 - 📫 How to reach me **mrkaran2k5@gmail.com**
 
