@@ -30,6 +30,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/karan-aggarwal-50a12b2b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan aggarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/karan_aggarwal_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_aggarwal_00" height="30" width="40" /></a>
+<a href="https://discord.com/users/karan._.0_10611" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="karan_aggarwal" height="35" width="40" /></a>
 <a href="https://www.leetcode.com/karan_aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan_aggarwal" height="30" width="40" /></a>
 </p>
 
