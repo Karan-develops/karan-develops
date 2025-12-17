@@ -34,12 +34,12 @@
 <a href="https://www.leetcode.com/karan_aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan_aggarwal" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript,react,redux,nextjs,prisma,tailwind,bootstrap,nodejs,express,mysql,sqlite,postgres,mongodb,redis,java,spring,vercel,nginx,docker,aws,kafka,figma,bash,powershell,linux,stackoverflow,git,github,postman,npm,vite,vscode,windows,graphql,go,firebase" />
 </p>
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">Stats :</h3>
 
 ![karan-develops's Stats](https://github-readme-stats.vercel.app/api?username=karan-develops&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
