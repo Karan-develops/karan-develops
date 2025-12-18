@@ -16,7 +16,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently exploring **Next JS** or maybe **Everything lol.**
+- 🌱 I’m currently exploring **Next JS** or honestly **everything lol.**
 
 - 🚀 Currently Building [Util-X](https://util-x.vercel.app)
 
