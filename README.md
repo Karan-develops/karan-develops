@@ -5,7 +5,7 @@
 ![Header](./github-header-image.jpg)
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=2000&color=F7F7F7&center=true&vCenter=true&width=1024&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Hola+%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Ciao%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+I'm+Karan+Aggarwal;Ol%C3%A1%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E4%BD%A0%E5%A5%BD%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;Hallo%F0%9F%91%8B%2C+I'm+Karan+Aggarwal;%E0%A8%B8%E0%A8%A4+%E0%A8%B8%E0%A9%8D%E0%A8%B0%E0%A9%80+%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2%F0%9F%99%8F%2C+I'm+Karan+Aggarwal" alt="Typing SVG" /></h1>
 
-<h3 align="center">A Passionate Software Developer from India 🔥</h3>
+<h3 align="center">Software Developer from India 🔥</h3>
 
 <img align="right" alt="GIF" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
