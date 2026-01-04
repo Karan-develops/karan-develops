@@ -25,7 +25,7 @@
 - 📫 How to reach me **mrkaran2k5@gmail.com**
 
 - ⚡ Fun fact **: It's just 0s and 1s. Relax.😉**
- 
+
 <h3 align="left">Connect with me :)</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karan-aggarwal-50a12b2b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan aggarwal" height="30" width="40" /></a>
